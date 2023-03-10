@@ -16,9 +16,10 @@ Algorithm training session for CDAC Akurdi batch - 2023
   - #### Trees/Graph
   - #### Heap
 - ### Hands On
-  - #### Nearest Neighbours
-  - #### Graph --> BFS, DFS
-  - #### Tree --> Traversal
   - #### Binary Search (Iterative + Recursive)
+  - #### Heap --> Building a Heap, Nearest Neighbours problem
+  - #### Tree --> Traversal, Level Difference
+  - #### Graph --> BFS, DFS
+  - #### Shortest Path
   
 
